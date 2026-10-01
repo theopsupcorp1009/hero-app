@@ -2,11 +2,12 @@
 
 import React, { useContext, useState } from "react";
 import Image from "next/image";
+import Link from "next/link";
 import { FiDownload } from "react-icons/fi";
 import { FaStar } from "react-icons/fa";
+import { toast } from "react-toastify";
 import { AppContext } from "@/context/AppContext";
 import { App } from "@/app/types/apps.type";
-import { toast } from "react-toastify";
 
 const InstallationPage = () => {
   const { installedApps, setInstalledApps } = useContext(AppContext);
@@ -16,14 +17,21 @@ const InstallationPage = () => {
     const newInstalledApps = installedApps.filter(
       (app: App) => Number(app.id) !== id,
     );
+
     setInstalledApps(newInstalledApps);
-    toast.error(`Uninstalled`);
+    toast.error("Uninstalled");
   };
 
   // Sort apps based on current selection
   const sortedApps = [...(installedApps || [])].sort((a: App, b: App) => {
-    if (sortBy === "size") return b.size - a.size;
-    if (sortBy === "title") return a.title.localeCompare(b.title);
+    if (sortBy === "size") {
+      return b.size - a.size;
+    }
+
+    if (sortBy === "title") {
+      return a.title.localeCompare(b.title);
+    }
+
     return 0;
   });
 
@@ -68,7 +76,7 @@ const InstallationPage = () => {
           <select
             value={sortBy}
             onChange={(e) => setSortBy(e.target.value)}
-            className="h-10 rounded-xl border border-[#E2DAD1] bg-white px-4 text-sm font-medium text-[#5F5A54] outline-none transition-colors cursor-pointer focus:border-[#B96845]"
+            className="h-10 cursor-pointer rounded-xl border border-[#E2DAD1] bg-white px-4 text-sm font-medium text-[#5F5A54] outline-none transition-colors focus:border-[#B96845]"
           >
             <option value="size">Sort By Size</option>
             <option value="title">Sort By Title</option>
@@ -78,6 +86,7 @@ const InstallationPage = () => {
         {/* Apps */}
         <div className="mt-6">
           {!installedApps || installedApps.length === 0 ? (
+            /* Empty State */
             <div className="rounded-[28px] border border-[#E7DFD6] bg-white px-6 py-20 text-center">
               <div className="mx-auto flex h-16 w-16 items-center justify-center rounded-2xl bg-[#F4EAE2] text-[#B96845]">
                 <FiDownload className="text-2xl" />
@@ -90,9 +99,21 @@ const InstallationPage = () => {
               <p className="mx-auto mt-2 max-w-sm text-sm leading-6 text-[#918B83]">
                 Apps you install from the marketplace will appear here.
               </p>
+
+              <Link
+                href="/apps"
+                className="mt-6 inline-flex h-11 items-center justify-center rounded-xl bg-[#24312B] px-6 text-sm font-semibold text-white transition-all duration-200 hover:-translate-y-0.5 hover:bg-[#34443C] hover:shadow-[0_8px_20px_rgba(36,49,43,0.12)]"
+              >
+                Browse All Apps
+              </Link>
             </div>
           ) : (
-            <div className="grid grid-cols-1 gap-4 md:grid-cols-2">
+            /* Installed Apps */
+            <div
+              className={`grid grid-cols-1 gap-4 ${
+                sortedApps.length > 1 ? "md:grid-cols-2" : ""
+              }`}
+            >
               {sortedApps.map((app: App) => (
                 <div
                   key={app.id}
@@ -111,7 +132,9 @@ const InstallationPage = () => {
 
                     {/* Main Info */}
                     <div className="min-w-0 flex-1">
-                      <div className="flex items-start justify-between gap-3">
+                      {/* Title + Buttons */}
+                      <div className="flex flex-col gap-3 md:flex-row md:items-start md:justify-between">
+                        {/* App Title */}
                         <div className="min-w-0">
                           <h3 className="truncate text-base font-bold text-[#292A27] md:text-lg">
                             {app.title}
@@ -122,12 +145,23 @@ const InstallationPage = () => {
                           </p>
                         </div>
 
-                        <button
-                          onClick={() => handleUninstall(app.id)}
-                          className="cursor-pointer shrink-0 rounded-xl border border-[#E7DFD6] px-3.5 py-2 text-xs font-semibold text-[#756E66] transition-all duration-200 hover:border-[#D7B9A8] hover:bg-[#FBF3EE] hover:text-[#A65D3E]"
-                        >
-                          Uninstall
-                        </button>
+                        {/* Actions */}
+                        <div className="flex items-center gap-2 md:shrink-0">
+                          <Link
+                            href={`/apps/${app.id}`}
+                            className="rounded-xl bg-[#24312B] px-3.5 py-2 text-xs font-semibold text-white transition-all duration-200 hover:bg-[#34443C]"
+                          >
+                            View Details
+                          </Link>
+
+                          <button
+                            type="button"
+                            onClick={() => handleUninstall(app.id)}
+                            className="cursor-pointer rounded-xl border border-[#E7DFD6] px-3.5 py-2 text-xs font-semibold text-[#756E66] transition-all duration-200 hover:border-[#D7B9A8] hover:bg-[#FBF3EE] hover:text-[#A65D3E]"
+                          >
+                            Uninstall
+                          </button>
+                        </div>
                       </div>
 
                       {/* App Metadata */}
@@ -144,7 +178,9 @@ const InstallationPage = () => {
 
                         <span className="h-1 w-1 rounded-full bg-[#D8D0C7]" />
 
-                        <span className="text-[#918B83]">{app.size} MB</span>
+                        <span className="text-[#918B83]">
+                          {app.size} MB
+                        </span>
                       </div>
                     </div>
                   </div>
