@@ -1,5 +1,9 @@
+import fs from "fs";
+import path from "path";
+
 export const getAllApps = async () => {
-  const res = await fetch(`${process.env.NEXT_PUBLIC_BASE_URL}/data.json`);
-  const data = await res.json();
-  return data;
+  const filePath = path.join(process.cwd(), "public", "data.json");
+  const data = fs.readFileSync(filePath, "utf-8");
+
+  return JSON.parse(data);
 };
