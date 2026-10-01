@@ -1,0 +1,992 @@
+[
+  {
+    "image": "https://i.pinimg.com/736x/c6/09/0d/c6090df18193e2616a6a32076883b70c.jpg",
+    "title": "WhatsApp Messenger",
+    "companyName": "WhatsApp LLC",
+    "id": 1,
+    "description": "WhatsApp Messenger is a free messaging app available for Android and other smartphones. WhatsApp uses your phone's Internet connection to let you message and call friends and family. Switch from SMS to WhatsApp to send and receive messages, calls, photos, videos, documents, and voice messages. Stay connected with people no matter where they are, safely and securely with end-to-end encryption.",
+    "size": 80,
+    "reviews": "172000K",
+    "ratingAvg": 4.5,
+    "downloads": "5000M",
+    "ratings": [
+      { "name": "1 star", "count": 1200000 },
+      { "name": "2 star", "count": 2400000 },
+      { "name": "3 star", "count": 8400000 },
+      { "name": "4 star", "count": 25000000 },
+      { "name": "5 star", "count": 136000000 }
+    ]
+  },
+  {
+  "image": "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=800&h=800&fit=crop",
+  "title": "Google Chrome",
+  "companyName": "Google LLC",
+  "id": 2,
+  "description": "Google Chrome is a fast, secure, and easy-to-use web browser. Search the web, visit your favorite websites, sync bookmarks and passwords across devices, and enjoy a smooth browsing experience with built-in security and privacy features.",
+  "size": 95,
+  "reviews": "42000K",
+  "ratingAvg": 4.4,
+  "downloads": "10000M",
+  "ratings": [
+    { "name": "1 star", "count": 1800000 },
+    { "name": "2 star", "count": 2500000 },
+    { "name": "3 star", "count": 5200000 },
+    { "name": "4 star", "count": 11000000 },
+    { "name": "5 star", "count": 22000000 }
+  ]
+},
+  {
+    "image": "https://png.pngtree.com/png-clipart/20180626/ourmid/pngtree-instagram-icon-instagram-logo-png-image_3584853.png",
+    "title": "Instagram",
+    "companyName": "Instagram",
+    "id": 3,
+    "description": "Instagram brings you closer to the people and things you love. Connect with friends, share what you're up to, or see what's new from others all over the world. Explore communities, share photos and videos, and express yourself with creative tools like Reels, Stories, and filters. Build your presence, follow your interests, and make your mark online.",
+    "size": 130,
+    "reviews": "160000K",
+    "ratingAvg": 4.2,
+    "downloads": "5000M",
+    "ratings": [
+      { "name": "1 star", "count": 8000000 },
+      { "name": "2 star", "count": 10000000 },
+      { "name": "3 star", "count": 22000000 },
+      { "name": "4 star", "count": 45000000 },
+      { "name": "5 star", "count": 75000000 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/736x/db/bb/57/dbbb57e4a4dd74be71504cdbac7a3095.jpg",
+    "title": "TikTok",
+    "companyName": "TikTok Pte. Ltd.",
+    "id": 4,
+    "description": "TikTok is the destination for mobile videos. Create short-form videos that are exciting, spontaneous, and genuine. Whether you're a sports fan, a pet lover, or just looking for laughter, there's something for everyone on TikTok. Discover millions of creators, participate in challenges, and share your creativity with the world.",
+    "size": 180,
+    "reviews": "45000K",
+    "ratingAvg": 4.4,
+    "downloads": "3000M",
+    "ratings": [
+      { "name": "1 star", "count": 3000000 },
+      { "name": "2 star", "count": 5000000 },
+      { "name": "3 star", "count": 7000000 },
+      { "name": "4 star", "count": 13000000 },
+      { "name": "5 star", "count": 17000000 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/736x/4a/b5/9b/4ab59bf6437538d0d99264293ef3c479.jpg",
+    "title": "Snapchat",
+    "companyName": "Snap Inc",
+    "id": 5,
+    "description": "Snapchat lets you easily talk with friends, view Live Stories from around the world, and explore news in Discover. Send photos and videos that disappear after being viewed, or save memories to share later. Express yourself with filters, lenses, Bitmoji, and more. Snapchat makes everyday communication fun and fast.",
+    "size": 95,
+    "reviews": "28000K",
+    "ratingAvg": 4.3,
+    "downloads": "1000M",
+    "ratings": [
+      { "name": "1 star", "count": 1200000 },
+      { "name": "2 star", "count": 1700000 },
+      { "name": "3 star", "count": 4000000 },
+      { "name": "4 star", "count": 8800000 },
+      { "name": "5 star", "count": 12300000 }
+    ]
+  },
+  {
+    "image": "https://png.pngtree.com/png-clipart/20221018/ourmid/pngtree-youtube-social-media-3d-stereo-png-image_6308427.png",
+    "title": "YouTube",
+    "companyName": "Google LLC",
+    "id": 6,
+    "description": "Get the official YouTube app for Android phones and tablets. See what the world is watching — from the hottest music videos to what's trending in gaming, entertainment, news, and more. Subscribe to channels you love, share with friends, and watch on any device. YouTube lets you explore endless video content tailored just for you.",
+    "size": 140,
+    "reviews": "145000K",
+    "ratingAvg": 4.5,
+    "downloads": "10000M",
+    "ratings": [
+      { "name": "1 star", "count": 4000000 },
+      { "name": "2 star", "count": 7000000 },
+      { "name": "3 star", "count": 13000000 },
+      { "name": "4 star", "count": 42000000 },
+      { "name": "5 star", "count": 79000000 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/736x/59/6d/74/596d74fed827cf406cbd2a4f0d8f00b2.jpg",
+    "title": "Telegram",
+    "companyName": "Telegram FZ-LLC",
+    "id": 7,
+    "description": "Telegram is a messaging app focused on speed and security. It's super-fast, simple, and free. You can send messages, photos, videos, and files of any type. Create groups for up to 200,000 members or channels for broadcasting to unlimited audiences. Cloud-based and encrypted, Telegram keeps your data safe while syncing seamlessly across all devices.",
+    "size": 75,
+    "reviews": "22000K",
+    "ratingAvg": 4.6,
+    "downloads": "1000M",
+    "ratings": [
+      { "name": "1 star", "count": 700000 },
+      { "name": "2 star", "count": 900000 },
+      { "name": "3 star", "count": 1800000 },
+      { "name": "4 star", "count": 5000000 },
+      { "name": "5 star", "count": 14600000 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/736x/72/a0/50/72a0500ff35991d147a6b48e4bffc721.jpg",
+    "title": "Netflix",
+    "companyName": "Netflix, Inc.",
+    "id": 8,
+    "description": "Looking for the most talked-about TV shows and movies? They're all on Netflix. Watch award-winning series, documentaries, movies, and stand-up specials. With personalized recommendations and offline viewing, Netflix makes it easy to find your next favorite story anytime, anywhere.",
+    "size": 150,
+    "reviews": "25000K",
+    "ratingAvg": 4.3,
+    "downloads": "1000M",
+    "ratings": [
+      { "name": "1 star", "count": 1200000 },
+      { "name": "2 star", "count": 1900000 },
+      { "name": "3 star", "count": 4200000 },
+      { "name": "4 star", "count": 8800000 },
+      { "name": "5 star", "count": 9800000 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/736x/44/72/7f/44727f1cea8b888d0fd752782bf9348f.jpg",
+    "title": "Google Maps",
+    "companyName": "Google LLC",
+    "id": 9,
+    "description": "Navigate your world faster and easier with Google Maps. Over 220 countries and territories mapped and hundreds of millions of businesses and places on the map. Get real-time GPS navigation, traffic, and transit info, and explore local neighborhoods. Whether you're commuting or traveling, Google Maps helps you find the best route every time.",
+    "size": 100,
+    "reviews": "160000K",
+    "ratingAvg": 4.4,
+    "downloads": "10000M",
+    "ratings": [
+      { "name": "1 star", "count": 6000000 },
+      { "name": "2 star", "count": 8000000 },
+      { "name": "3 star", "count": 12000000 },
+      { "name": "4 star", "count": 38000000 },
+      { "name": "5 star", "count": 96000000 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/736x/f7/b8/82/f7b88227115c0f076c245d7450d5f976.jpg",
+    "title": "Twitter (X)",
+    "companyName": "X Corp.",
+    "id": 10,
+    "description": "The X app (formerly Twitter) is the place to see what's happening. Follow your interests, join global conversations, and share your thoughts instantly. From breaking news to sports, entertainment, and politics, X connects you to the world in real-time.",
+    "size": 85,
+    "reviews": "30000K",
+    "ratingAvg": 4.0,
+    "downloads": "1000M",
+    "ratings": [
+      { "name": "1 star", "count": 2200000 },
+      { "name": "2 star", "count": 3400000 },
+      { "name": "3 star", "count": 4200000 },
+      { "name": "4 star", "count": 7200000 },
+      { "name": "5 star", "count": 13000000 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/736x/98/92/8c/98928c82f78bdd50c5a28d8fa4633035.jpg",
+    "title": "Clash of Clans",
+    "companyName": "Supercell",
+    "id": 11,
+    "description": "Join millions of players worldwide as you build your village, raise a clan, and compete in epic Clan Wars! Clash of Clans is a strategic combat game where you command armies of Barbarians, Archers, and legendary heroes. Build defenses to protect your base and raid others for loot. With endless upgrades, clan events, and real-time battles, Clash of Clans delivers nonstop action and community-driven fun.",
+    "size": 280,
+    "reviews": "65000K",
+    "ratingAvg": 4.6,
+    "downloads": "1000M",
+    "ratings": [
+      { "name": "1 star", "count": 2000000 },
+      { "name": "2 star", "count": 2500000 },
+      { "name": "3 star", "count": 5000000 },
+      { "name": "4 star", "count": 12000000 },
+      { "name": "5 star", "count": 43500000 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/736x/51/6a/74/516a74d6d701c86c007f668d7cf2891a.jpg",
+    "title": "PUBG Mobile",
+    "companyName": "Level Infinite",
+    "id": 12,
+    "description": "PUBG Mobile delivers the most intense free-to-play multiplayer action on mobile. Drop into the battlefield, gear up, and fight to be the last one standing. Explore diverse maps, realistic weapons, and exciting modes like Team Deathmatch and Payload. With frequent updates and events, PUBG Mobile provides endless entertainment for competitive and casual gamers alike.",
+    "size": 750,
+    "reviews": "46000K",
+    "ratingAvg": 4.3,
+    "downloads": "1000M",
+    "ratings": [
+      { "name": "1 star", "count": 4000000 },
+      { "name": "2 star", "count": 5000000 },
+      { "name": "3 star", "count": 7000000 },
+      { "name": "4 star", "count": 11000000 },
+      { "name": "5 star", "count": 19000000 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/736x/69/81/7e/69817eac50792cffdb7973074e4b5bde.jpg",
+    "title": "Candy Crush Saga",
+    "companyName": "King",
+    "id": 13,
+    "description": "Start playing Candy Crush Saga today – a legendary puzzle game loved by millions around the world. Match colorful candies to progress through thousands of levels, each offering unique challenges and boosters. Easy to play but hard to master, Candy Crush Saga is the ultimate casual game that keeps you coming back for more delicious fun.",
+    "size": 260,
+    "reviews": "35000K",
+    "ratingAvg": 4.6,
+    "downloads": "1000M",
+    "ratings": [
+      { "name": "1 star", "count": 1500000 },
+      { "name": "2 star", "count": 2100000 },
+      { "name": "3 star", "count": 4100000 },
+      { "name": "4 star", "count": 8600000 },
+      { "name": "5 star", "count": 19700000 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/736x/b2/f8/28/b2f828513f21444829a619ce563d4d4e.jpg",
+    "title": "LinkedIn",
+    "companyName": "LinkedIn Corporation",
+    "id": 14,
+    "description": "LinkedIn is the world's largest professional network. Connect with colleagues, discover career opportunities, and stay up to date with the latest industry trends. Build your personal brand, follow companies, and learn new skills through LinkedIn Learning. Whether you're job hunting or hiring, LinkedIn helps professionals succeed and grow together.",
+    "size": 120,
+    "reviews": "25000K",
+    "ratingAvg": 4.4,
+    "downloads": "1000M",
+    "ratings": [
+      { "name": "1 star", "count": 1000000 },
+      { "name": "2 star", "count": 1800000 },
+      { "name": "3 star", "count": 3200000 },
+      { "name": "4 star", "count": 7200000 },
+      { "name": "5 star", "count": 11800000 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/736x/52/b4/20/52b42001bcc7a0cb013c97eeb3ead223.jpg",
+    "title": "Duolingo: Learn Languages",
+    "companyName": "Duolingo",
+    "id": 15,
+    "description": "Learn a new language for free with Duolingo. Practice speaking, reading, listening, and writing in a fun, bite-sized way. Duolingo helps you master over 30 languages like Spanish, French, German, and Japanese. With gamified lessons, streak tracking, and personalized goals, Duolingo makes learning addictive and effective for everyone.",
+    "size": 65,
+    "reviews": "14000K",
+    "ratingAvg": 4.7,
+    "downloads": "500M",
+    "ratings": [
+      { "name": "1 star", "count": 400000 },
+      { "name": "2 star", "count": 700000 },
+      { "name": "3 star", "count": 1200000 },
+      { "name": "4 star", "count": 3200000 },
+      { "name": "5 star", "count": 8700000 }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Facebook",
+    "companyName": "Meta Platforms, Inc.",
+    "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=300&h=300&fit=crop",
+    "description": "Connect with friends, family, and people who share the same interests as you. Communicate privately, watch your favorite content, buy and sell items, or just spend time with your community.",
+    "size": 65,
+    "reviews": "132M",
+    "ratingAvg": 4.1,
+    "downloads": "5B+",
+    "ratings": [
+      { "name": "5 star", "count": 80000000 },
+      { "name": "4 star", "count": 20000000 },
+      { "name": "3 star", "count": 10000000 },
+      { "name": "2 star", "count": 7000000 },
+      { "name": "1 star", "count": 15000000 }
+    ]
+  },
+  {
+    "id": 17,
+    "title": "TikTok",
+    "companyName": "TikTok Pte. Ltd.",
+    "image": "https://images.unsplash.com/photo-1611605698335-8b1569810432?w=300&h=300&fit=crop",
+    "description": "TikTok is THE destination for mobile videos. On TikTok, short-form videos are exciting, spontaneous, and genuine. Whether you're a sports fanatic, a pet enthusiast, or just looking for a laugh.",
+    "size": 85,
+    "reviews": "88M",
+    "ratingAvg": 4.5,
+    "downloads": "1B+",
+    "ratings": [
+      { "name": "5 star", "count": 60000000 },
+      { "name": "4 star", "count": 15000000 },
+      { "name": "3 star", "count": 5000000 },
+      { "name": "2 star", "count": 3000000 },
+      { "name": "1 star", "count": 5000000 }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "YouTube",
+    "companyName": "Google LLC",
+    "image": "https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?w=300&h=300&fit=crop",
+    "description": "Get the official YouTube app on Android phones and tablets. See what the world is watching -- from the hottest music videos to what's popular in gaming, fashion, beauty, news, learning and more.",
+    "size": 120,
+    "reviews": "150M",
+    "ratingAvg": 4.4,
+    "downloads": "10B+",
+    "ratings": [
+      { "name": "5 star", "count": 110000000 },
+      { "name": "4 star", "count": 20000000 },
+      { "name": "3 star", "count": 8000000 },
+      { "name": "2 star", "count": 4000000 },
+      { "name": "1 star", "count": 8000000 }
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Spotify",
+    "companyName": "Spotify AB",
+    "image": "https://images.unsplash.com/photo-1614680376573-df3480f0c6ff?w=300&h=300&fit=crop",
+    "description": "With the Spotify music and podcast app, you can play millions of songs, albums, and original podcasts for free. Stream music and podcasts, discover albums, playlists, or even single songs.",
+    "size": 48,
+    "reviews": "31M",
+    "ratingAvg": 4.3,
+    "downloads": "1B+",
+    "ratings": [
+      { "name": "5 star", "count": 20000000 },
+      { "name": "4 star", "count": 5000000 },
+      { "name": "3 star", "count": 2000000 },
+      { "name": "2 star", "count": 1000000 },
+      { "name": "1 star", "count": 3000000 }
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Snapchat",
+    "companyName": "Snap Inc.",
+    "image": "https://images.unsplash.com/photo-1611162616305-c69b3fa7fbe0?w=300&h=300&fit=crop",
+    "description": "Snapchat is a fast and fun way to share the moment with your friends and family. Snapchat opens right to the Camera so you can send a Snap in seconds!",
+    "size": 72,
+    "reviews": "33M",
+    "ratingAvg": 4.1,
+    "downloads": "1B+",
+    "ratings": [
+      { "name": "5 star", "count": 20000000 },
+      { "name": "4 star", "count": 5000000 },
+      { "name": "3 star", "count": 3000000 },
+      { "name": "2 star", "count": 2000000 },
+      { "name": "1 star", "count": 3000000 }
+    ]
+  },
+  {
+    "id": 21,
+    "title": "X (formerly Twitter)",
+    "companyName": "X Corp.",
+    "image": "https://images.unsplash.com/photo-1611605698323-b1e992d37a91?w=300&h=300&fit=crop",
+    "description": "The X app is the trusted digital town square for everyone. Post content for the world to see and join public conversations.",
+    "size": 52,
+    "reviews": "21M",
+    "ratingAvg": 3.9,
+    "downloads": "1B+",
+    "ratings": [
+      { "name": "5 star", "count": 11000000 },
+      { "name": "4 star", "count": 3000000 },
+      { "name": "3 star", "count": 2000000 },
+      { "name": "2 star", "count": 1500000 },
+      { "name": "1 star", "count": 3500000 }
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Pinterest",
+    "companyName": "Pinterest",
+    "image": "https://images.unsplash.com/photo-1611162618071-b39a2ec055fb?w=300&h=300&fit=crop",
+    "description": "Pinterest is the place to explore inspiration. You can discover billions of ideas to make your dreams reality, from fashion to home design.",
+    "size": 45,
+    "reviews": "11M",
+    "ratingAvg": 4.5,
+    "downloads": "500M+",
+    "ratings": [
+      { "name": "5 star", "count": 8000000 },
+      { "name": "4 star", "count": 1800000 },
+      { "name": "3 star", "count": 500000 },
+      { "name": "2 star", "count": 200000 },
+      { "name": "1 star", "count": 500000 }
+    ]
+  },
+  {
+    "id": 23,
+    "title": "LinkedIn",
+    "companyName": "LinkedIn",
+    "image": "https://images.unsplash.com/photo-1611944212129-29977ae1398c?w=300&h=300&fit=crop",
+    "description": "Find jobs, make professional connections, and advance your career with the LinkedIn app. Get industry insights and build your brand.",
+    "size": 56,
+    "reviews": "2.5M",
+    "ratingAvg": 4.2,
+    "downloads": "1B+",
+    "ratings": [
+      { "name": "5 star", "count": 1500000 },
+      { "name": "4 star", "count": 500000 },
+      { "name": "3 star", "count": 200000 },
+      { "name": "2 star", "count": 100000 },
+      { "name": "1 star", "count": 200000 }
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Telegram",
+    "companyName": "Telegram FZ-LLC",
+    "image": "https://images.unsplash.com/photo-1611746872915-64382b5c76da?w=300&h=300&fit=crop",
+    "description": "Pure instant messaging -- simple, fast, secure, and synced across all your devices. One of the world's top 10 most downloaded apps.",
+    "size": 38,
+    "reviews": "13M",
+    "ratingAvg": 4.3,
+    "downloads": "1B+",
+    "ratings": [
+      { "name": "5 star", "count": 9000000 },
+      { "name": "4 star", "count": 2000000 },
+      { "name": "3 star", "count": 800000 },
+      { "name": "2 star", "count": 400000 },
+      { "name": "1 star", "count": 800000 }
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Reddit",
+    "companyName": "Reddit Inc.",
+    "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=300&h=300&fit=crop",
+    "description": "Reddit is the place where people come together to have the most authentic and interesting conversations on the internet.",
+    "size": 60,
+    "reviews": "3.8M",
+    "ratingAvg": 4.1,
+    "downloads": "100M+",
+    "ratings": [
+      { "name": "5 star", "count": 2300000 },
+      { "name": "4 star", "count": 800000 },
+      { "name": "3 star", "count": 300000 },
+      { "name": "2 star", "count": 150000 },
+      { "name": "1 star", "count": 250000 }
+    ]
+  },
+  {
+    "id": 26,
+    "title": "Netflix",
+    "companyName": "Netflix, Inc.",
+    "image": "https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?w=300&h=300&fit=crop",
+    "description": "Looking for the most talked about TV shows and movies from the around the world? They're all on Netflix.",
+    "size": 40,
+    "reviews": "14M",
+    "ratingAvg": 4.2,
+    "downloads": "1B+",
+    "ratings": [
+      { "name": "5 star", "count": 9000000 },
+      { "name": "4 star", "count": 2500000 },
+      { "name": "3 star", "count": 1000000 },
+      { "name": "2 star", "count": 500000 },
+      { "name": "1 star", "count": 1000000 }
+    ]
+  },
+  {
+    "id": 27,
+    "title": "Amazon Shopping",
+    "companyName": "Amazon Mobile LLC",
+    "image": "https://images.unsplash.com/photo-1523474253046-8cd2748b5fd2?w=300&h=300&fit=crop",
+    "description": "Browse, search, view product details, read reviews, and purchase millions of products with Amazon Shopping.",
+    "size": 78,
+    "reviews": "3.5M",
+    "ratingAvg": 4.3,
+    "downloads": "500M+",
+    "ratings": [
+      { "name": "5 star", "count": 2200000 },
+      { "name": "4 star", "count": 700000 },
+      { "name": "3 star", "count": 300000 },
+      { "name": "2 star", "count": 100000 },
+      { "name": "1 star", "count": 200000 }
+    ]
+  },
+  {
+    "id": 28,
+    "title": "Uber",
+    "companyName": "Uber Technologies, Inc.",
+    "image": "https://images.unsplash.com/photo-1557223562-6c77ef16210f?w=300&h=300&fit=crop",
+    "description": "We're committed to your safety at Uber. We've established a Door-to-Door Safety Standard to help you feel safe every time you ride.",
+    "size": 95,
+    "reviews": "4.8M",
+    "ratingAvg": 4.4,
+    "downloads": "500M+",
+    "ratings": [
+      { "name": "5 star", "count": 3200000 },
+      { "name": "4 star", "count": 900000 },
+      { "name": "3 star", "count": 300000 },
+      { "name": "2 star", "count": 150000 },
+      { "name": "1 star", "count": 250000 }
+    ]
+  },
+  {
+    "id": 29,
+    "title": "Airbnb",
+    "companyName": "Airbnb, Inc.",
+    "image": "https://images.unsplash.com/photo-1501183638710-841dd1904471?w=300&h=300&fit=crop",
+    "description": "Find unforgettable vacation rentals, cabins, beach houses, and unique homes around the world.",
+    "size": 68,
+    "reviews": "1.2M",
+    "ratingAvg": 4.6,
+    "downloads": "100M+",
+    "ratings": [
+      { "name": "5 star", "count": 900000 },
+      { "name": "4 star", "count": 200000 },
+      { "name": "3 star", "count": 50000 },
+      { "name": "2 star", "count": 20000 },
+      { "name": "1 star", "count": 30000 }
+    ]
+  },
+  {
+    "id": 30,
+    "title": "Duolingo",
+    "companyName": "Duolingo",
+    "image": "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=300&h=300&fit=crop",
+    "description": "Learn a new language with the world's most-downloaded education app! Duolingo is the fun, free app for learning 40+ languages.",
+    "size": 32,
+    "reviews": "18M",
+    "ratingAvg": 4.7,
+    "downloads": "500M+",
+    "ratings": [
+      { "name": "5 star", "count": 14000000 },
+      { "name": "4 star", "count": 2500000 },
+      { "name": "3 star", "count": 800000 },
+      { "name": "2 star", "count": 300000 },
+      { "name": "1 star", "count": 400000 }
+    ]
+  },
+  {
+    "id": 31,
+    "title": "Discord",
+    "companyName": "Discord Inc.",
+    "image": "https://images.unsplash.com/photo-1614680376408-81e91ffe3db7?w=300&h=300&fit=crop",
+    "description": "Discord is where you can make a home for your communities and friends. Where you can stay close and have fun over text, voice, and video.",
+    "size": 80,
+    "reviews": "5.2M",
+    "ratingAvg": 4.3,
+    "downloads": "500M+",
+    "ratings": [
+      { "name": "5 star", "count": 3500000 },
+      { "name": "4 star", "count": 900000 },
+      { "name": "3 star", "count": 400000 },
+      { "name": "2 star", "count": 150000 },
+      { "name": "1 star", "count": 250000 }
+    ]
+  },
+  {
+    "id": 32,
+    "title": "Slack",
+    "companyName": "Slack Technologies Inc.",
+    "image": "https://images.unsplash.com/photo-1611162616475-46b635cb6868?w=300&h=300&fit=crop",
+    "description": "Slack brings communication and collaboration into one place so you can get more work done, whether you belong to a large enterprise or a small business.",
+    "size": 42,
+    "reviews": "380K",
+    "ratingAvg": 4.4,
+    "downloads": "100M+",
+    "ratings": [
+      { "name": "5 star", "count": 250000 },
+      { "name": "4 star", "count": 80000 },
+      { "name": "3 star", "count": 30000 },
+      { "name": "2 star", "count": 10000 },
+      { "name": "1 star", "count": 10000 }
+    ]
+  },
+  {
+    "id": 33,
+    "title": "Zoom Workplace",
+    "companyName": "zoom.us",
+    "image": "https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?w=300&h=300&fit=crop",
+    "description": "Work from anywhere with a single app that combines team chat, phone, whiteboard, meetings, and more.",
+    "size": 115,
+    "reviews": "3.9M",
+    "ratingAvg": 4.0,
+    "downloads": "500M+",
+    "ratings": [
+      { "name": "5 star", "count": 2200000 },
+      { "name": "4 star", "count": 800000 },
+      { "name": "3 star", "count": 400000 },
+      { "name": "2 star", "count": 200000 },
+      { "name": "1 star", "count": 300000 }
+    ]
+  },
+  {
+    "id": 34,
+    "title": "Canva: Design, Photo & Video",
+    "companyName": "Canva",
+    "image": "https://images.unsplash.com/photo-1626785774573-4b799315345d?w=300&h=300&fit=crop",
+    "description": "Canva makes design amazingly simple and fun! Create stunning graphic designs with your photos and videos -- even if you're not a design expert!",
+    "size": 35,
+    "reviews": "14M",
+    "ratingAvg": 4.8,
+    "downloads": "100M+",
+    "ratings": [
+      { "name": "5 star", "count": 12000000 },
+      { "name": "4 star", "count": 1500000 },
+      { "name": "3 star", "count": 300000 },
+      { "name": "2 star", "count": 100000 },
+      { "name": "1 star", "count": 100000 }
+    ]
+  },
+  {
+    "id": 35,
+    "title": "Notion - notes, docs, tasks",
+    "companyName": "Notion Labs, Inc.",
+    "image": "https://images.unsplash.com/photo-1517842645767-c639042777db?w=300&h=300&fit=crop",
+    "description": "Write, plan, and get organized in one place. Customize Notion to work the way you do.",
+    "size": 28,
+    "reviews": "210K",
+    "ratingAvg": 4.6,
+    "downloads": "10M+",
+    "ratings": [
+      { "name": "5 star", "count": 160000 },
+      { "name": "4 star", "count": 30000 },
+      { "name": "3 star", "count": 10000 },
+      { "name": "2 star", "count": 4000 },
+      { "name": "1 star", "count": 6000 }
+    ]
+  },
+  {
+    "id": 36,
+    "title": "Strava: Run, Bike, Hike",
+    "companyName": "Strava Inc.",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=300&h=300&fit=crop",
+    "description": "Track your fitness with Strava activity tracker. Record routes, map your favorite bike trail or run & analyze your training with all the stats.",
+    "size": 62,
+    "reviews": "850K",
+    "ratingAvg": 4.5,
+    "downloads": "50M+",
+    "ratings": [
+      { "name": "5 star", "count": 600000 },
+      { "name": "4 star", "count": 150000 },
+      { "name": "3 star", "count": 50000 },
+      { "name": "2 star", "count": 20000 },
+      { "name": "1 star", "count": 30000 }
+    ]
+  },
+  {
+    "id": 37,
+    "title": "Shazam: Find Music in Seconds",
+    "companyName": "Apple Inc.",
+    "image": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=300&h=300&fit=crop",
+    "description": "Shazam will identify any song in seconds. Discover, artists, lyrics, videos & playlists, all for free.",
+    "size": 25,
+    "reviews": "7.5M",
+    "ratingAvg": 4.7,
+    "downloads": "500M+",
+    "ratings": [
+      { "name": "5 star", "count": 6000000 },
+      { "name": "4 star", "count": 1000000 },
+      { "name": "3 star", "count": 300000 },
+      { "name": "2 star", "count": 100000 },
+      { "name": "1 star", "count": 100000 }
+    ]
+  },
+  {
+    "id": 38,
+    "title": "PayPal",
+    "companyName": "PayPal Mobile",
+    "image": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=300&h=300&fit=crop",
+    "description": "Send money safely, track your account activity, choose how you pay and buy, sell, or hold crypto with PayPal.",
+    "size": 90,
+    "reviews": "2.9M",
+    "ratingAvg": 4.3,
+    "downloads": "500M+",
+    "ratings": [
+      { "name": "5 star", "count": 2000000 },
+      { "name": "4 star", "count": 500000 },
+      { "name": "3 star", "count": 200000 },
+      { "name": "2 star", "count": 80000 },
+      { "name": "1 star", "count": 120000 }
+    ]
+  },
+  {
+    "id": 39,
+    "title": "Twitch: Live Game Streaming",
+    "companyName": "Twitch Interactive, Inc.",
+    "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=300&h=300&fit=crop",
+    "description": "Watch live gaming videos, Esports, and any audio/video broadcast on your Android device!",
+    "size": 75,
+    "reviews": "5.1M",
+    "ratingAvg": 4.2,
+    "downloads": "100M+",
+    "ratings": [
+      { "name": "5 star", "count": 3500000 },
+      { "name": "4 star", "count": 800000 },
+      { "name": "3 star", "count": 400000 },
+      { "name": "2 star", "count": 150000 },
+      { "name": "1 star", "count": 250000 }
+    ]
+  },
+  {
+    "id": 40,
+    "title": "Headspace: Mindful Meditation",
+    "companyName": "Headspace Inc.",
+    "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=300&h=300&fit=crop",
+    "description": "Get happy. Stress less. Sleep soundly. Headspace is your guide to everyday mindfulness for mental health, wellness, and sleep.",
+    "size": 48,
+    "reviews": "310K",
+    "ratingAvg": 4.6,
+    "downloads": "10M+",
+    "ratings": [
+      { "name": "5 star", "count": 240000 },
+      { "name": "4 star", "count": 40000 },
+      { "name": "3 star", "count": 15000 },
+      { "name": "2 star", "count": 5000 },
+      { "name": "1 star", "count": 10000 }
+    ]
+  },
+  {
+    "id": 41,
+    "title": "MyFitnessPal",
+    "companyName": "MyFitnessPal, Inc.",
+    "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=300&h=300&fit=crop",
+    "description": "Track progress toward your nutrition, fitness, weight loss, and water goals with MyFitnessPal.",
+    "size": 82,
+    "reviews": "2.7M",
+    "ratingAvg": 4.4,
+    "downloads": "100M+",
+    "ratings": [
+      { "name": "5 star", "count": 1800000 },
+      { "name": "4 star", "count": 500000 },
+      { "name": "3 star", "count": 200000 },
+      { "name": "2 star", "count": 80000 },
+      { "name": "1 star", "count": 120000 }
+    ]
+  },
+  {
+    "id": 42,
+    "title": "Subway Surfers",
+    "companyName": "SYBO Games",
+    "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300&h=300&fit=crop",
+    "description": "DASH as fast as you can! DODGE the oncoming trains! Help Jake, Tricky & Fresh escape from the grumpy Inspector and his dog.",
+    "size": 150,
+    "reviews": "40M",
+    "ratingAvg": 4.5,
+    "downloads": "1B+",
+    "ratings": [
+      { "name": "5 star", "count": 30000000 },
+      { "name": "4 star", "count": 5000000 },
+      { "name": "3 star", "count": 2000000 },
+      { "name": "2 star", "count": 1000000 },
+      { "name": "1 star", "count": 2000000 }
+    ]
+  },
+  {
+    "id": 43,
+    "title": "Roblox",
+    "companyName": "Roblox Corporation",
+    "image": "https://images.unsplash.com/photo-1612287230202-1ff1d85d1bdf?w=300&h=300&fit=crop",
+    "description": "Roblox is the ultimate virtual universe that lets you create, share experiences with friends, and be anything you can imagine.",
+    "size": 165,
+    "reviews": "35M",
+    "ratingAvg": 4.4,
+    "downloads": "500M+",
+    "ratings": [
+      { "name": "5 star", "count": 25000000 },
+      { "name": "4 star", "count": 4000000 },
+      { "name": "3 star", "count": 2000000 },
+      { "name": "2 star", "count": 1000000 },
+      { "name": "1 star", "count": 3000000 }
+    ]
+  },
+  {
+    "id": 44,
+    "title": "Candy Crush Saga",
+    "companyName": "King",
+    "image": "https://images.unsplash.com/photo-1580234811497-9df7fd2f357e?w=300&h=300&fit=crop",
+    "description": "Master the legendary match 3 puzzle game from King and have a blast! Match, pop, and blast candies in this tasty puzzle adventure.",
+    "size": 98,
+    "reviews": "38M",
+    "ratingAvg": 4.6,
+    "downloads": "1B+",
+    "ratings": [
+      { "name": "5 star", "count": 29000000 },
+      { "name": "4 star", "count": 5000000 },
+      { "name": "3 star", "count": 2000000 },
+      { "name": "2 star", "count": 800000 },
+      { "name": "1 star", "count": 1200000 }
+    ]
+  },
+  {
+    "id": 45,
+    "title": "Among Us",
+    "companyName": "Innersloth LLC",
+    "image": "https://images.unsplash.com/photo-1563089145-599997674d42?w=300&h=300&fit=crop",
+    "description": "Play online or over local WiFi with 4-15 players as you attempt to prep your spaceship for departure, but beware as one will be an impostor!",
+    "size": 140,
+    "reviews": "13M",
+    "ratingAvg": 4.1,
+    "downloads": "500M+",
+    "ratings": [
+      { "name": "5 star", "count": 8000000 },
+      { "name": "4 star", "count": 2000000 },
+      { "name": "3 star", "count": 1000000 },
+      { "name": "2 star", "count": 500000 },
+      { "name": "1 star", "count": 1500000 }
+    ]
+  },
+  {
+    "id": 46,
+    "title": "Call of Duty: Mobile",
+    "companyName": "Activision Publishing, Inc.",
+    "image": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=300&h=300&fit=crop",
+    "description": "Console quality HD gaming on your phone with customizable controls, voice and text chat, and thrilling 3D graphics and sound.",
+    "size": 2100,
+    "reviews": "16M",
+    "ratingAvg": 4.3,
+    "downloads": "100M+",
+    "ratings": [
+      { "name": "5 star", "count": 11000000 },
+      { "name": "4 star", "count": 2500000 },
+      { "name": "3 star", "count": 1000000 },
+      { "name": "2 star", "count": 500000 },
+      { "name": "1 star", "count": 1000000 }
+    ]
+  },
+  {
+    "id": 47,
+    "title": "Minecraft",
+    "companyName": "Mojang",
+    "image": "https://images.unsplash.com/photo-1627856013091-fed6e4e30025?w=300&h=300&fit=crop",
+    "description": "Explore infinite worlds and build everything from the simplest of homes to the grandest of castles.",
+    "size": 650,
+    "reviews": "5.5M",
+    "ratingAvg": 4.5,
+    "downloads": "50M+",
+    "ratings": [
+      { "name": "5 star", "count": 4000000 },
+      { "name": "4 star", "count": 800000 },
+      { "name": "3 star", "count": 300000 },
+      { "name": "2 star", "count": 150000 },
+      { "name": "1 star", "count": 250000 }
+    ]
+  },
+  {
+    "id": 48,
+    "title": "Clash Royale",
+    "companyName": "Supercell",
+    "image": "https://images.unsplash.com/photo-1560253023-3ec5d502959f?w=300&h=300&fit=crop",
+    "description": "Enter the Arena! Build your Battle Deck and outsmart the enemy in fast real-time battles.",
+    "size": 190,
+    "reviews": "33M",
+    "ratingAvg": 4.2,
+    "downloads": "500M+",
+    "ratings": [
+      { "name": "5 star", "count": 21000000 },
+      { "name": "4 star", "count": 5000000 },
+      { "name": "3 star", "count": 2500000 },
+      { "name": "2 star", "count": 1500000 },
+      { "name": "1 star", "count": 3000000 }
+    ]
+  },
+  {
+    "id": 49,
+    "title": "PUBG MOBILE",
+    "companyName": "Level Infinite",
+    "image": "https://images.unsplash.com/photo-1542751110-97427bbecf20?w=300&h=300&fit=crop",
+    "description": "Extreme battles in 10-minute matches. Prepare your firearms, respond to the call for battle in PUBG MOBILE, and fire at will.",
+    "size": 850,
+    "reviews": "43M",
+    "ratingAvg": 4.1,
+    "downloads": "500M+",
+    "ratings": [
+      { "name": "5 star", "count": 27000000 },
+      { "name": "4 star", "count": 6000000 },
+      { "name": "3 star", "count": 3000000 },
+      { "name": "2 star", "count": 2000000 },
+      { "name": "1 star", "count": 5000000 }
+    ]
+  },
+  {
+    "id": 50,
+    "title": "Goodnotes 6",
+    "companyName": "Time Base Technology Limited",
+    "image": "https://images.unsplash.com/photo-1517842645767-c639042777db?w=300&h=300&fit=crop",
+    "description": "Replace your paper notebooks and reinvent digital note-taking with Goodnotes.",
+    "size": 95,
+    "reviews": "110K",
+    "ratingAvg": 4.5,
+    "downloads": "10M+",
+    "ratings": [
+      { "name": "5 star", "count": 80000 },
+      { "name": "4 star", "count": 15000 },
+      { "name": "3 star", "count": 8000 },
+      { "name": "2 star", "count": 3000 },
+      { "name": "1 star", "count": 4000 }
+    ]
+  },
+  {
+    "id": 51,
+    "title": "Microsoft Outlook",
+    "companyName": "Microsoft Corporation",
+    "image": "https://images.unsplash.com/photo-1596526131083-e8c633c948d2?w=300&h=300&fit=crop",
+    "description": "Connect, organize, and get things done with Outlook email and calendar app.",
+    "size": 92,
+    "reviews": "8.5M",
+    "ratingAvg": 4.4,
+    "downloads": "500M+",
+    "ratings": [
+      { "name": "5 star", "count": 6000000 },
+      { "name": "4 star", "count": 1500000 },
+      { "name": "3 star", "count": 500000 },
+      { "name": "2 star", "count": 200000 },
+      { "name": "1 star", "count": 300000 }
+    ]
+  },
+  {
+    "id": 52,
+    "title": "Procreate Pocket",
+    "companyName": "Savage Interactive Pty Ltd",
+    "image": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=300&h=300&fit=crop",
+    "description": "Powerful enough for creative professionals. Simple enough for everyone. Premium digital illustration app.",
+    "size": 240,
+    "reviews": "95K",
+    "ratingAvg": 4.7,
+    "downloads": "5M+",
+    "ratings": [
+      { "name": "5 star", "count": 75000 },
+      { "name": "4 star", "count": 12000 },
+      { "name": "3 star", "count": 4000 },
+      { "name": "2 star", "count": 1500 },
+      { "name": "1 star", "count": 2500 }
+    ]
+  },
+  {
+    "id": 53,
+    "title": "SoundCloud: Play Music & Songs",
+    "companyName": "SoundCloud",
+    "image": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=300&h=300&fit=crop",
+    "description": "SoundCloud is the world's largest music and audio streaming platform – 300M+ tracks and counting.",
+    "size": 50,
+    "reviews": "6.2M",
+    "ratingAvg": 4.4,
+    "downloads": "500M+",
+    "ratings": [
+      { "name": "5 star", "count": 4500000 },
+      { "name": "4 star", "count": 1000000 },
+      { "name": "3 star", "count": 400000 },
+      { "name": "2 star", "count": 100000 },
+      { "name": "1 star", "count": 200000 }
+    ]
+  },
+  {
+    "id": 54,
+    "title": "Bumble - Date, Meet Friends",
+    "companyName": "Bumble Holding Limited",
+    "image": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=300&h=300&fit=crop",
+    "description": "Millions of people have signed up on Bumble to start building valuable relationships, finding friends, and making empowered connections.",
+    "size": 78,
+    "reviews": "850K",
+    "ratingAvg": 4.0,
+    "downloads": "50M+",
+    "ratings": [
+      { "name": "5 star", "count": 500000 },
+      { "name": "4 star", "count": 180000 },
+      { "name": "3 star", "count": 80000 },
+      { "name": "2 star", "count": 40000 },
+      { "name": "1 star", "count": 50000 }
+    ]
+  },
+  {
+    "id": 55,
+    "title": "Calm - Sleep, Meditate, Relax",
+    "companyName": "Calm.com, Inc.",
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=300&h=300&fit=crop",
+    "description": "Calm is the #1 app for sleep, meditation and relaxation. Manage stress, balance moods, sleep better and refocus your attention.",
+    "size": 60,
+    "reviews": "520K",
+    "ratingAvg": 4.5,
+    "downloads": "50M+",
+    "ratings": [
+      { "name": "5 star", "count": 380000 },
+      { "name": "4 star", "count": 80000 },
+      { "name": "3 star", "count": 30000 },
+      { "name": "2 star", "count": 10000 },
+      { "name": "1 star", "count": 20000 }
+    ]
+  }
+]
